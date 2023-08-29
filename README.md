@@ -14,5 +14,5 @@ Find the source code here: [InazumaV/V2bX](https://github.com/InazumaV/V2bX)
 # 一键安装
 
 ```
-wget -N https://raw.githubusercontents.com/IsMio/script/master/install_v2bx.sh && bash install.sh
+wget -N https://raw.githubusercontents.com/IsMio/script/master/install_v2bx.sh && bash install_v2bx.sh
 ```
