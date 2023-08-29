@@ -80,7 +80,7 @@ before_show_menu() {
 }
 
 install() {
-    bash <(curl -Ls https://raw.githubusercontents.com/IsMio/script/master/install.sh)
+    bash <(curl -Ls https://raw.githubusercontents.com/IsMio/script/master/install_v2bx.sh)
     if [[ $? == 0 ]]; then
         if [[ $# == 0 ]]; then
             start
@@ -96,7 +96,7 @@ update() {
     else
         version=$2
     fi
-    bash <(curl -Ls https://raw.githubusercontents.com/IsMio/script/master/install.sh) $version
+    bash <(curl -Ls https://raw.githubusercontents.com/IsMio/script/master/install_v2bx.sh) $version
     if [[ $? == 0 ]]; then
         echo -e "${green}更新完成，已自动重启 V2bX，请使用 V2bX log 查看运行日志${plain}"
         exit
