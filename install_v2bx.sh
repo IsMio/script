@@ -177,7 +177,7 @@ install_V2bX() {
     chmod +x /usr/bin/v2bx
     ln -s /usr/bin/V2bX /usr/bin/v2bx # 小写兼容
     cd $cur_dir
-    rm -f install.sh
+    rm -f install_v2bx.sh
     echo -e ""
     echo "V2bX 管理脚本使用方法 (兼容使用V2bX执行，大小写不敏感): "
     echo "------------------------------------------"
