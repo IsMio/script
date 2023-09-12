@@ -11,8 +11,13 @@ Find the source code here: [InazumaV/V2bX](https://github.com/InazumaV/V2bX)
 
 [教程](https://crackair.gitbook.io/xrayr-project/)
 
-# 一键安装
+# 一键安装v2bx
 
 ```
 wget -N https://github.com/IsMio/script/raw/master/install_v2bx.sh && bash install_v2bx.sh
+```
+# 一键安装xrayr
+
+```
+bash <(curl -Ls https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/install.sh)
 ```
