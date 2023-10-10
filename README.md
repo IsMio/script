@@ -21,7 +21,7 @@ wget -N https://github.com/IsMio/script/raw/master/install_v2bx.sh && bash insta
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/IsMio/script/master/XrayR-release-master/install.sh)
 ```
-# xray
+# xray (for CN INSTALL)
 
 ```
 bash -c "$(curl -L https://ghproxy.com/https://raw.githubusercontent.com/IsMio/script/master/xray.sh)" @ install
