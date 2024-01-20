@@ -14,4 +14,4 @@ bash <(curl -Ls https://raw.githubusercontent.com/IsMio/script/master/XrayR-rele
 # xray (for CN INSTALL)
 
 ```
-bash -c "$(curl -L https://ghproxy.com/https://raw.githubusercontent.com/IsMio/script/master/xray.sh)" @ install
+bash -c "$(curl -L https://ghproxy.org/https://raw.githubusercontent.com/IsMio/script/master/xray.sh)" @ install
